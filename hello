@@ -2,5 +2,5 @@
 #
 # Program to greet anyone
 
-var="Leila"
+var="Leia"
 echo "Hi $var!"
