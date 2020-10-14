@@ -1,5 +1,6 @@
 #!/bin/bash
 #
-# Program to greet Leila
+# Program to greet anyone
 
-echo "Hi Leila!"
+var="Leila"
+echo "Hi $var!"
